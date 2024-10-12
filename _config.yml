@@ -141,6 +141,7 @@ footer:
       url:  "https://github.com/YN37git"
 
 # Reading Files
+include: ["_pages"]
 include:
   - .htaccess
   - _pages
