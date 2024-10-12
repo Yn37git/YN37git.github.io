@@ -13,10 +13,10 @@ defaults:
       related: true
 ---
 
-#Test
-##test 
-
+# Test
+## test 
+***
 - 1
-- 2
-===
+- $(a+b)^n=\sum_{i=0}^n {n\choose i} a^i b^{n-i}.$
+- ` ok `
 

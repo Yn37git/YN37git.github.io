@@ -7,10 +7,11 @@ defaults:
     values:
       layout: single
       author_profile: true
+    permalink: /about/
 ---
 
-#About me :
+# About me :
 ===
 - A **Mathematics** student
--
--
+- 
+- 
